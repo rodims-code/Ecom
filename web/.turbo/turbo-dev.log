@@ -1,0 +1,5 @@
+[?9001h[?1004h[?25l[2J[m[2;1H> web@0.1.0 dev C:\Users\ridro\Documents\Dev\Ecom\apps\web
+> next dev --port 3000[5;1H]0;C:\WINDOWS\system32\cmd.exe[?25h]0;next-server (v16.0.0)   [38;2;173;127;168m[1m▲ Next.js 16.0.0[m (Turbopack)
+[?25l   - Local:        http://localhost:3000
+   - Network:      http://192.168.56.1:3000[9;1H [32m[1m✓[m Starting...
+[?25h [32m[1m✓[m Ready in 3.9s
